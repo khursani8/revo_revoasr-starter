@@ -12,14 +12,17 @@ everything into `submission.zip`.
 ## Quick Start
 
 ```bash
-# 1. Install dependencies (on YOUR machine)
+# 1. Clone this repo
+git clone https://github.com/khursanirevo/revoasr-starter.git
+cd revoasr-starter
+
+# 2. Install dependencies (on YOUR machine)
 pip install transformers torch soundfile
 
-# 2. Download model and create submission.zip
-cd examples/starter-whisper
+# 3. Download model and create submission.zip
 bash build.sh
 
-# 3. Upload the resulting submission.zip to the competition platform
+# 4. Upload the resulting submission.zip to the competition platform
 ```
 
 ## Submission Structure
