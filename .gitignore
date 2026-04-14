@@ -1,0 +1,4 @@
+model/
+submission.zip
+__pycache__/
+*.pyc
