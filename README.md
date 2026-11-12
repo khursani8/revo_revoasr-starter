@@ -1,3 +1,5 @@
+> **Unique:** Official starter kit for the revoasr ASR competition: offline-container inference.py contract and build.sh that bundles Whisper-tiny weights into an uploadable submission.zip baseline.
+
 # Starter Submission: Whisper Tiny
 
 A ready-to-upload baseline using OpenAI's Whisper tiny model (~75 MB).
